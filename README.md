@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a6b,100:3b82f6&height=230&section=header&text=Carlos%20Andr%C3%A9%20Sabino&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CTO%20%26%20Cofundador%20%E2%80%A2%20Analista%20de%20Sistemas%20S%C3%AAnior%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Carlos André Sabino" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a6b,100:3b82f6&height=230&section=header&text=Carlos%20Andr%C3%A9%20Sabino&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CTO%20e%20Cofundador%20%E2%80%A2%20Analista%20de%20Sistemas%20S%C3%AAnior%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Carlos André Sabino" />
 
 <a href="https://github.com/caarlosandree">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=16+anos+de+TI+%E2%80%94+da+telefonia+ao+SaaS;Java+25+%7C+Spring+Boot+%7C+Spring+Modulith;Next.js+%7C+React+19+%7C+TypeScript;Go+%7C+Python+%7C+Flutter+%7C+Rust;IA+generativa%3A+LLMs%2C+agentes%2C+RAG+e+MCP;Sa%C3%BAde+digital%3A+Tasy%2C+HIS%2FPEP+e+Oracle+PL%2FSQL" alt="Typing SVG" />
